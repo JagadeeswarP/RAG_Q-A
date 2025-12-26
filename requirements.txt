@@ -1,0 +1,20 @@
+# streamlit
+# faiss-cpu
+# docx
+# numpy
+# langchain
+# PyPDF2
+# google-generativeai
+# python-dotenv
+
+streamlit
+faiss-cpu
+langchain
+langchain-community
+langchain-groq
+langchain-text-splitters
+fastembed
+PyPDF2
+python-docx
+requests
+yt-dlp

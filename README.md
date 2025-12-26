@@ -229,11 +229,5 @@ linkedin.com/in/jagadeeswar-pattupogula</a>
   <li>Use it as a base for advanced RAG systems</li>
 </ul>
 
-<div class="note">
-<strong>Interview Tip:</strong><br />
-This project demonstrates RAG fundamentals, vector search, prompt grounding,
-and cloud-ready system design — ideal for AI / ML / Backend roles.
-</div>
-
 </body>
 </html>
